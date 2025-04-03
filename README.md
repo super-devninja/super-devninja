@@ -85,6 +85,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=super-devninja&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
+<p>superdevninja0304@gmail.com</p>
 </div>
 </div>
 
